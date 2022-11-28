@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "not json",
+      "author": "not typies"
+    },
+    {
+      "title": "meow",
+      "author": "doggo",
+      "id": 3
+    },
+    {
+      "title": "woof",
+      "author": "catto",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
